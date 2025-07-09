@@ -1,0 +1,22 @@
+
+Vous trouverez un tableau de type objet dans le fichier 'main.js'
+
+Avec ce tableau vous renseignerez dynamiquement le fichier 'index.html' comme suivant :
+
+Chaque élément du tableau sera dans un 'article' et
+cet article contiendra les informations suivante :
+une balise titre 'h2' avec le nom de l'auteur
+une image 'img' avec l'image de l'auteur  ('download_url')
+
+Pour cette image, vous devrez faire un traitement pour afficher celle-ci en 300x200
+exemple :
+avec  "https://picsum.photos/id/0/5000/3333" ,
+sera transformé en "https://picsum.photos/id/0/300/200"
+
+
+
+Vous utilisez les flexbox pour obtenir un affichage centré, voir (rendu.png)
+
+
+Problème de performance : try loading="lazy"
+
